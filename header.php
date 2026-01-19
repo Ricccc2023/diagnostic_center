@@ -87,7 +87,7 @@ ob_start();
 							<a href="#d1" class="dropdown-toggle" data-toggle="dropdown"><i class="lnr lnr-cog"></i> <span>Settings</span> <i class="icon-submenu lnr lnr-chevron-down"></i></a>
 							<ul id="#d1" class="dropdown-menu">
 								<li><a class="" href="add_pathology.php?active=add_pathology">Add Pathology</a></li>
-	                      		<li><a class="" href="add_user.php?active=add_user">Add User</a></li>
+	                      		<li><a class="" href="add_user.php?active=add_user">Add Nurse</a></li>
 	                            <li><a class="" href="add_category.php?active=add_category">Add Category</a></li>
 	                            <li><a class="" href="add_test.php?active=add_test">Add Test</a></li>
 	                            <li><a class="" href="add_doctor.php?active=add_doctor">Add Doctor</a></li>
