@@ -113,46 +113,6 @@ require_once('include/header.php');
 							
 							 
           </div>
-          </div>
-          <div class="row">
-                <div class="col-md-4">
-					    <div class="panel">
-							<div class="panel-heading">
-								<h3 class="panel-title">Today's Report</h3>
-								<div class="right">
-									<button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
-									<button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
-								</div>
-							</div>
-							
-							<div class="panel-body ">
-							    <?php require_once('report_dashboard.php'); ?>
-							</div>
-							
-						</div>
-				</div>
-				<div class="col-md-8">
-					<!-- RECENT PURCHASES -->
-					<div class="panel">
-						<div class="panel-heading">
-							<h3 class="panel-title">Today's Expenses</h3>
-							<div class="right">
-								<button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
-								<button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
-							</div>
-						</div>
-						<div class="panel-body no-padding">
-							<?php require_once('expense_dashboard.php'); ?> 
-						</div>
-						
-					</div>
-					<!-- END RECENT PURCHASES -->
-				</div>
-
-		</div>
-       
-          
-
 <?php
 require_once('include/footer.php');	
 }else{
