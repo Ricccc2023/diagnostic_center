@@ -34,8 +34,7 @@ require_once('connect.php');
               }
             ?>
             </li>						  	
-					</ol>
-				</div>
+					</ol> 
               
 		<div class="row">
         	<div class="col-md-12" align="center">

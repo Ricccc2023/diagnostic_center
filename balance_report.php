@@ -14,8 +14,6 @@ $time = date('h:i:s', $mkdate);
 $(document).ready(function() {
 	$('#myTable').DataTable();
 } );
-
-
 function searchByDate(){
 	var from_date = $('#from_date').val();
 	var to_date = $('#to_date').val();

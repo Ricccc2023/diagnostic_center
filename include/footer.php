@@ -10,7 +10,7 @@
                   while ($row = $result->fetch_assoc()) {
                     echo $row['lab_name'];
                     }
-                ?></a>. All Rights Reserved. <a href="developer.php">Develpoer Info</a></p>
+                ?></a>. All Rights Reserved. <a href="developer.php">Developer Info</a></p>
 		</div>
    </footer>
 </div>
