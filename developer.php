@@ -1,9 +1,8 @@
 <?php
 // 1. Define your personal information and links
-$name = "Your Name";
+$name = "";
 $bio = "Full Stack Developer | UI/UX Enthusiast";
-$profile_pic = "src=assets/img/developerprofilephoto.png"; // Replace with your image URL
-
+$profile_pic = "assets/img/developerprofilephoto.png";
 $social_links = [
     "GitHub"   => "https://github.com/Ricccc2023",
     "Facebook"=> "https://www.facebook.com/ricilagann",
@@ -15,7 +14,7 @@ $social_links = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $name; ?> | Developer Profile</title>
+    <title><?php echo $name; ?>Ric Ilagan</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
         .card { background: white; padding: 2rem; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); text-align: center; width: 350px; }
