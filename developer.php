@@ -2,7 +2,7 @@
 // 1. Define your personal information and links
 $name = "Your Name";
 $bio = "Full Stack Developer | UI/UX Enthusiast";
-$profile_pic = "https://via.placeholder.com/150"; // Replace with your image URL
+$profile_pic = "src=assets/img/developerprofilephoto.png"; // Replace with your image URL
 
 $social_links = [
     "GitHub"   => "https://github.com/Ricccc2023",
