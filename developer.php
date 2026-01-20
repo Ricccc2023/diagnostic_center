@@ -7,7 +7,6 @@ $profile_pic = "https://via.placeholder.com/150"; // Replace with your image URL
 $social_links = [
     "GitHub"   => "https://github.com/Ricccc2023",
     "Facebook"=> "https://www.facebook.com/ricilagann",
-    "Email"    => "mailto:yourname@example.com"
 ];
 ?>
 
